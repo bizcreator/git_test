@@ -1,2 +1,4 @@
 # git_test
-Test repository for git seminar
+## 목적
+Github Test
+
